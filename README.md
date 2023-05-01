@@ -8,3 +8,5 @@ The Notebook used for my dissertation
 - seaborn 
 - scipy
 - itertools 
+- colorama -v0.4.4
+- bayesian-optimization
